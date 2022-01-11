@@ -1,7 +1,7 @@
 - Hi, I’m @kahnclusions
 - I'm from 🇨🇦 and live in 🇬🇧
-- I’m interested in Neovim, Scala, TypeScript, Nix
-- I’m currently learning Nix
+- I’m interested in Neovim, Scala, TypeScript and Lua
+- I’m currently learning Neovim plugin development
 
 <!---
 kahnclusions/kahnclusions is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
